@@ -1,4 +1,4 @@
-# QualityAssuranceTeam-FALL2024-SQA
+# TestingTitans-FALL2024-SQA
 
 ## Team Members
 - Ankush Singh (ans0148@auburn.edu)
