@@ -1,5 +1,6 @@
 # TestingTitans-FALL2024-SQA
 
+## Team - Testing Titans
 ## Team Members
 - Ankush Singh (ans0148@auburn.edu)
 - Aparana Pant (azp0200@auburn.edu)
